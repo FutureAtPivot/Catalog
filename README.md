@@ -85,3 +85,17 @@ You can view a virtualized demonstration of the app on `Appetize.io` by clicking
 ```bash
  https://expo.dev/accounts/futureatpivot/projects/Catalog/
 ```
+
+## Photos | ScreenShot
+
+![Product Listing](/assets/ProductListing.PNG)
+
+![Shopping Cart](/assets/ShoppingCart.PNG)
+
+![Shipping details](/assets/ShippingDetails.PNG)
+
+![Order Summary](/assets/OrderSummary.PNG)
+
+![Wishlist](/assets/Wishlist.PNG)
+
+![Order Summary](/assets/OrderSummary.PNG)
