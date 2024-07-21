@@ -71,6 +71,7 @@ This is a simple shopping app built using React Native Expo and TypeScript. The 
    ```
 
 4. Build the Android app:
+
    ```bash
    eas build -p android
    ```
