@@ -88,14 +88,14 @@ You can view a virtualized demonstration of the app on `Appetize.io` by clicking
 
 ## Photos | ScreenShot
 
-![Product Listing](/assets/ProductListing.PNG)
+![Product Listing](/screenshots/ProductListing.PNG)
 
-![Shopping Cart](/assets/ShoppingCart.PNG)
+![Shopping Cart](screenshots/ShoppingCart.PNG)
 
-![Shipping details](/assets/ShippingDetails.PNG)
+![Shipping details](/screenshots/ShippingDetails.PNG)
 
-![Order Summary](/assets/OrderSummary.PNG)
+![Order Summary](/screenshots/OrderSummary.PNG)
 
-![Wishlist](/assets/Wishlist.PNG)
+![Wishlist](/screenshots/Wishlist.PNG)
 
-![Order Summary](/assets/OrderSummary.PNG)
+![Order Summary](/screenshots/OrderSummary.PNG)
